@@ -1,7 +1,7 @@
 'use strict';
 
 const sprintf = require('sprintf-js').sprintf;
-const { Broadcast: B, CommandManager } = require('ranvier');
+const { Broadcast: B, CommandManager } = require('whispermud-core');
 
 const subcommands = new CommandManager();
 subcommands.add({

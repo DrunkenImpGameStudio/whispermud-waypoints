@@ -1,8 +1,7 @@
 {
-  "private": true,
-  "name": "basic-waypoints",
+  "name": "whispermud-waypoints",
   "version": "1.0.0",
-  "description": "Ranvier bundle for a basic waypoint fast travel system",
+  "description": "Bundle for a basic waypoint fast travel system",
   "dependencies": {
     "sprintf-js": "^1.1.2"
   }
